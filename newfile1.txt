@@ -1,6 +1,9 @@
 hi this new file.
 
 statshing.
+<<<<<<< HEAD
 
 
 new file added.
+=======
+>>>>>>> stashing
